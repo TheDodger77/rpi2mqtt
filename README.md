@@ -17,6 +17,7 @@ Node.js.
 
 Install rpi2mqtt:
 `$ sudo npm install -g node-gyp`
+
 `$ sudo npm install --unsafe-perm -g rpi2mqtt`
 
 To run rpi2mqtt in background and start on system boot I suggest to use [PM2](https://github.com/Unitech/pm2).
